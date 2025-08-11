@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 
-  function xyz(){
+  function praval(){
   console.log("praval")
   }
   return (
