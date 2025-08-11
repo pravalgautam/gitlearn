@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
 
-  function praval(){
-  console.log("oopop")
+  function xyz(){
+  console.log("maona")
   }
 
   function shubham(){
