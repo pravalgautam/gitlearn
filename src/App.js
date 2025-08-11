@@ -4,7 +4,7 @@ import './App.css';
 function App() {
 
   function praval(){
-  console.log("praval")
+  console.log("oopop")
   }
 
   function shubham(){
