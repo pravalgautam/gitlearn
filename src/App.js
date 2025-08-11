@@ -6,6 +6,10 @@ function App() {
   function xyz(){
   console.log("praval")
   }
+
+  function shubham(){
+  console.log("shubham")
+  }
   return (
     <div className="App">
       <header className="App-header">
